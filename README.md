@@ -1,9 +1,9 @@
-<img src="./assets/title1.svg"/>
+<img src="./readme/assets/title1.svg"/>
 
 <br><br>
 
 <!-- project philosophy -->
-<img src="./assets/title2.svg"/>
+<img src="./readme/assets/title2.svg"/>
 
 > A comprehensive platform for analyzing financial metrics and predicting the success and financial distress of businesses, making it easier for stakeholders to gain insights and make informed decisions.
 >
@@ -16,7 +16,7 @@
 
 <br><br>
 <!-- Tech stack -->
-<img src="./assets/title3.svg"/>
+<img src="./readme/assets/title3.svg"/>
 
 
 
@@ -41,25 +41,25 @@ This project utilizes **Python** for data preprocessing, financial analysis, and
 <br><br>
 
 <!-- Database Design -->
-<img src="./assets/title5.svg"/>
+<img src="./readme/assets/title5.svg"/>
 
 ###  Architecting Data Excellence: Innovative Database Warehouse Strategies:
 
-<img src="./assets/dw_er.png">
+<img src="./readme/assets/dw_er.png">
 
 
 <br><br>
 
 
 <!-- Implementation -->
-<img src="./assets/title6.svg"/>
+<img src="./readme/assets/title6.svg"/>
 
 
 ### Dashboard Screens
 | Landing | Overview |
 | ---| ---| 
-<img src="./assets/powerbi-screenshots/Landing.PNG"> | <img src="./assets/powerbi-screenshots/Overview.PNG"> |
+<img src="./readme/assets/powerbi-screenshots/Landing.PNG"> | <img src="./readme/assets/powerbi-screenshots/Overview.PNG"> |
 |Financial Health | Profitability & Growth |
- <img src="./assets/powerbi-screenshots/Financial Health.PNG"> | <img src="./assets/powerbi-screenshots/Profit & Growth.PNG"> |
+ <img src="./readme/assets/powerbi-screenshots/Financial Health.PNG"> | <img src="./readme/assets/powerbi-screenshots/Profit & Growth.PNG"> |
  Distress Prediction |
- <img src="./assets/powerbi-screenshots/Distress Prediction.PNG"> |
+ <img src="./readme/assets/powerbi-screenshots/Distress Prediction.PNG"> |
