@@ -134,12 +134,13 @@ This project utilizes **Python** for data preprocessing, financial analysis, and
     pip install -r requirements.txt
     ```
 
-2. **MySQL**:
-    Click [here](https://dev.mysql.com/downloads/) to download MySQL Workbecnk.<br>
+2. **MySQL**:<br >
+    Click [here](https://dev.mysql.com/downloads/) to download MySQL Workbench.<br>
     Click [here](https://dev.mysql.com/downloads/connector/) to download MySQL connector.<br >
 
-3. **Power BI**: 
-    only for Windows, click [here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) to download.
+3. **Power BI**: <br>
+    Click [here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) to download. <br>
+    `Disclaimer`:This works only on Windows. If you're using macOS, you can use a virtual machine or set up a dual boot.
 
 ### Dashboard Setup
  Click [here](https://drive.google.com/file/d/1NKulQoFBTAnTkIoOgu-pk5os32XMt1io/view?usp=sharing) to download the Power BI file.
